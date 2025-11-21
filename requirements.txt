@@ -1,0 +1,10 @@
+# Libs to install
+pandas
+numpy
+matplotlib
+bs4 -- Beautiful soup
+requests
+ipykernel -- To work with Jupyter's preview mode in vscode
+lxml -- to allow pandas to fetch html data
+yfinance 
+yahooquery
