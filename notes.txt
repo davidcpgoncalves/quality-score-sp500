@@ -12,5 +12,9 @@
 1.2.3.1 - I tried and found a way to get all data faster, using the yahooquery library. To test, I just created a new file, copied the code I had in my main.py file and saw if it worked. I'm still grasping on the core concept of what I just did but understanding what it means. What I'll do is I'm going to create the project all over again each time I open it, to see if I get the core concepts together and learn from that. And I prefer to take it slow (meaning doing fewer steps), but making sure I understand everything.
 1.2.3.2 - Faced a problem when pulling all data (variable names were not correct for ebitda, pbRatio and current price), so, again, I wen to Perplexity to try and find a solution for this. I might have to pull data from other places other than summary_details.
 1.2.3.3 - Tried to use multiple ways to get the data (either summary_details and financial data but it was duplicating efforts, so I just wen with one of them -- asked perplexity which one would be) -- took too much time with 30 requests. Will need to do this later and explore other options. (more than 5 minutes)
+--
+24th, Nov 2025
+- Started by checking work I've done previously.
+1.2.3.4 - Gave my problem to perplexity to come with a faster way to do things (my goal is not to touch any rate limits)
 
 
